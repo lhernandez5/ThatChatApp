@@ -1,1 +1,1 @@
-# ThatChatApp
+# ChatApp
