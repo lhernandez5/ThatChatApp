@@ -10,7 +10,7 @@
 # Backend
 
 **UserManagementService:**
-**JWT Authentication and Authorization with Spring Boot 3 and Spring Security 6**
+**JWT Authentication and Authorization**
 
 * Spring Boot 3
 * Spring Security 6
